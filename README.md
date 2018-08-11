@@ -8,3 +8,8 @@ Independence Day in Indonesia is a patriotic public holiday every 17 August to c
 
 - [AnimeJS](https://github.com/juliangarnier/anime/)
 - [Fireworks AnimeJS](https://codepen.io/juliangarnier/pen/gmOwJX)
+
+## Contributor
+
+- [Creator **muhibbudins**](https://github.com/muhibbudins)
+- [Quote by **gitacitrap**](https://github.com/gitacitrap)
