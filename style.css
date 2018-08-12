@@ -5,7 +5,7 @@ body {
   overflow-x: hidden; }
 
 body {
-  background-color: #000;
+  background-color: #004d40;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -38,6 +38,7 @@ canvas {
   left: 50%;
   transform: scale(0.5) translate(-50%, -50%); }
 .text-3 {
+  top: 320px;
   bottom: 0;
   left: 50%;
   transform: scale(0.7) translateX(-50%); }

@@ -8,11 +8,11 @@ window.human = false;
 
 var canvasEl = document.querySelector('.fireworks');
 var ctx = canvasEl.getContext('2d');
-var numberOfParticules = 30;
+var numberOfParticules = 45;
 var pointerX = 0;
 var pointerY = 0;
 var tap = ('ontouchstart' in window || navigator.msMaxTouchPoints) ? 'touchstart' : 'mousedown';
-var colors = ['#FF1461', '#18FF92', '#5A87FF', '#FBF38C'];
+var colors = ['#ff8a80', '#ff5252', '#ff1744', '#d50000'];
 
 function setCanvasSize() {
   canvasEl.width = window.innerWidth * 2;
