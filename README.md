@@ -1,4 +1,7 @@
 # Happy Independence Day
+![Day](https://badgen.net/badge/Day/17/red)
+![Month](https://badgen.net/badge/Month/August/red)
+![Year](https://badgen.net/badge/Year/1945/red)
 
 > 73 Tahun Indonesia Merdeka
 
