@@ -1,18 +1,18 @@
-# Happy Independence Day
-![Day](https://badgen.net/badge/Day/17/red)
-![Month](https://badgen.net/badge/Month/August/red)
-![Year](https://badgen.net/badge/Year/1945/red)
+# Happy Eid Idul Adha
+![Day](https://badgen.net/badge/Day/22/pink)
+![Month](https://badgen.net/badge/Month/August/pink)
+![Year](https://badgen.net/badge/Year/2018/pink)
 
-> 73 Tahun Indonesia Merdeka
+> 1439 H
 
-Independence Day in Indonesia is a patriotic public holiday every 17 August to celebrate the foundation of Indonesia as an independent nation. It is also referred to as Hari Merdeka.
+Eid al-Adha (Arabic: عيد الأضحى‎, translit. ʿīd al-ʾaḍḥā, lit. 'Feast of the Sacrifice', [ʕiːd ælˈʔɑdˤħæː]), also called the "Festival of Sacrifice", is the second of two Islamic holidays celebrated worldwide each year (the other being Eid al-Fitr), and considered the holier of the two. It honors the willingness of Ibrahim (Abraham) to sacrifice his son as an act of obedience to God’s command. Before Abraham could sacrifice his son, God provided a ram to sacrifice instead. In commemoration of this, an animal is sacrificed and divided into three parts: one third of the share is given to the poor and needy; another third is given to relatives, friends and neighbors; and the remaining third is retained by the family.
 
 ## Thanks To
 
 - [AnimeJS](https://github.com/juliangarnier/anime/)
 - [Fireworks AnimeJS](https://codepen.io/juliangarnier/pen/gmOwJX)
+- [**muhibbudins**](https://github.com/muhibbudins)
 
 ## Contributor
 
-- [Creator **muhibbudins**](https://github.com/muhibbudins)
-- [Quote by **gitacitrap**](https://github.com/gitacitrap)
+- [Creator **gitacitrap**](https://github.com/gitacitrap)
